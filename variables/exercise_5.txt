@@ -1,0 +1,3 @@
+In the first program x prints 3 to the screen. 
+The second program is going to give an error because x 
+is initialized inside of the do/end block.
