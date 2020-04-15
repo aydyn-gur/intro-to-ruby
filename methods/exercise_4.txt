@@ -1,0 +1,2 @@
+It wont print anything to the screen because there is a return statement
+on line 3 which makes the program exit the method and not execute line 4. 
