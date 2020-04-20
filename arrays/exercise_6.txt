@@ -1,0 +1,4 @@
+You are getting this error because arrays take integers as keys
+and by putting 'margaret' you are inserting a string instead.
+To fix this you would write this instead: 
+names[3] = "Jody" 
