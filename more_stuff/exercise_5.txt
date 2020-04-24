@@ -1,0 +1,8 @@
+def execute(block)
+  block.call
+end
+
+execute { puts "Hello from inside the execute method!" }
+
+# The following code is missing an ampersand (&) sign in the argument which
+allows a block to be passed as a parameter. 

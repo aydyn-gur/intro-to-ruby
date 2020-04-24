@@ -1,0 +1,2 @@
+Exception handling is used in case an unexpected error comes up in the code.
+It handles the error by changing to another block of code and not exiting the program. 
